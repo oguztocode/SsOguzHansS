@@ -9,6 +9,8 @@ I'am Oğuzhan from Turkey.I do content on C Codes.I like to spend hours in front
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SsOguzhansS)  
 
-![GitHub metrics](https://metrics.lecoq.io/SsOguzhansS)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SsOguzhansS&show_icons=true)  
+
+
 
 
