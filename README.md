@@ -6,4 +6,4 @@ I'am Oğuzhan from Turkey.I do content on C Codes.I like to spend hours in front
 - 🌱 I’m currently learning Russian, French
 
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SsOguzHansS&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SsOguzHansS&theme=tokyonight" />
-  𝕽𝖚𝖇𝖞
+  𝕽𝖚𝖇𝖞 𝕮
