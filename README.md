@@ -11,3 +11,4 @@ I'am Oğuzhan from Turkey.I do content on C Codes.I like to spend hours in front
  
 [![ogozturk 42 stats](https://badge42.herokuapp.com/api/stats/ogozturk?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
+RUBY
