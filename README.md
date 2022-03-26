@@ -7,5 +7,3 @@ I'am Oğuzhan from Turkey.I do content on C Codes.I like to spend hours in front
 
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SsOguzHansS&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SsOguzHansS&theme=tokyonight" />
   𝕽𝖚𝖇𝖞
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SsOguzHansS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsOguzHansS&layout=compact&langs_count=7&theme=dark"/>  
