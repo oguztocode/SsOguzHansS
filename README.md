@@ -6,7 +6,7 @@ I'am Oğuzhan from Turkey.I do content on C Codes.I like to spend hours in front
 - 🌱 I’m currently learning Russian, French
 - 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsOguzHansS&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsOguzHansS&show_icons=true&theme=tokyonight)
   
 𝕽𝖚𝖇𝖞
 
