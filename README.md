@@ -7,7 +7,10 @@ I'am Oğuzhan from Turkey.I do content on C Codes.I like to spend hours in front
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SsOguzhansS)  
- 
- 
 
 
+【R】【u】【b】【y】
+
+𝗥𝘂𝗯𝘆
+
+𝕽𝖚𝖇𝖞
